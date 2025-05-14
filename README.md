@@ -13,7 +13,7 @@ Ideal for crypto enthusiasts tracking their wallet activity across chains.
 ## Structure
 - `zk_gui.py` — graphical interface script
 - `zk_services.py` — background runtime handler
-- `zk_module.dat` — encrypted runtime binary
+- `zk_module.dat` — requied runtime asset
 - `ZK_Checker_Guide.pdf` — user guide
 - `requirements.txt` — Tkinter requirement
 
